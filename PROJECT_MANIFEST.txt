@@ -1,0 +1,6 @@
+5G-PCAP Analyzer project bundle
+Entrypoint: app.py
+Deployment: Streamlit Community Cloud
+Linux dependency: tshark (packages.txt)
+Python dependencies: requirements.txt
+Tests: pytest -q
